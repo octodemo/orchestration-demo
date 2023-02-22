@@ -176,7 +176,7 @@
 	<script>
 		var app = angular.module('pixi',['ngSanitize', 'ngFileUpload', 'infinite-scroll', 'ngMaterial', 'angularMoment' ]).
 		config(function($sceProvider) {
-			$sceProvider.enabled(false)
+			$sceProvider.enabled(true)
 		}).
 		controller('pixiController', function($scope, $http, $sce, Upload){
 
