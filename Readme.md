@@ -1,8 +1,5 @@
-This module is no longer supported.  However, it's wildy vulnerable, so if you want to scan it with a scanner, it will light up like a beautiful Christmas tree. :-D
+# A stupidly insecure API 😈
 
-## To Run
+This repo is a fork of [DevSlop/Pixi](https://github.com/DevSlop/Pixi) which is a ridiculously insecure API.  The intention with this repo is to show how code scanning reusable workflows can help to integrate multiple scanning tools.
 
-```
-docker-compose up
-```
-
+Aside from an insecure API, there is also a Dockerfile which references a super old build.  There's also a misconfigured Terraform document with lots of IaC vulnerabilities. 
