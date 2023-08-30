@@ -12,7 +12,7 @@ Aside from an insecure API, there is also a Dockerfile which references a super 
 
 # Viewing results
 
- 1. fork this repo 
+ 1. [fork this repo](https://github.com/octodemo/orchestration-demo/fork)
  1. enable Actions (choose the Actions tab and agree to enable them)
      <img width="538" alt="image" src="https://github.com/octodemo/orchestration-demo/assets/1760475/de92bfae-24fe-4951-8c17-8a23c1253800"> 
  1. for each workflow now listed on the Actions tab, hit the `Enable workflow` button
